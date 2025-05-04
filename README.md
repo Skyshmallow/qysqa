@@ -1,3 +1,6 @@
+![My Canva Image](https://media.canva.com/v2/image-resize/format:PNG/height:257/quality:100/uri:ifs%3A%2F%2F%2Ff23bc718-a9d7-46f4-b167-2ca70dcca45e/watermark:F/width:550?csig=AAAAAAAAAAAAAAAAAAAAAJwKH9XS3dzMvlYQJmQenmr7kjj45G3VyRIJphDq7jHL&exp=1746340438&osig=AAAAAAAAAAAAAAAAAAAAAEGacjdFOv7IhJOJcO7wTqEQzWcRqeWRnyNTR_t0RiIz&signer=media-rpc&x-canva-quality=thumbnail_large)
+
+
 Отчёт о проделанной работе по проекту Qysqa.kz – Учитесь эффективно
 В рамках участия в хакатоне был разработан начальный прототип интеллектуальной образовательной платформы Qysqa.kz, которая помогает студентам эффективно готовиться к экзаменам. Основной акцент сделан на автоматизацию создания конспектов и тестов с использованием искусственного интеллекта.
 
